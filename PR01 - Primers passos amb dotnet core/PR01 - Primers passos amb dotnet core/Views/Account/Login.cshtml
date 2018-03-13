@@ -1,0 +1,19 @@
+﻿@model LoginDto
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Inicio de Session</h2>
+
+<form method="post">
+    <label>Nombre</label>
+    <input type="text" name="Firstname" />
+    
+    <label>Contraseña</label>
+    <input type="password" name="Password" />
+    <input type="submit" value="Enviar"/>
+    
+
+</form>

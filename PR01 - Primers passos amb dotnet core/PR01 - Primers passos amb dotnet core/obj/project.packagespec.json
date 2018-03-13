@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\fenix\\RiderProjects\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core.csproj",
+    "projectName": "PR01 - Primers passos amb dotnet core",
+    "projectPath": "C:\\Users\\fenix\\RiderProjects\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core.csproj",
+    "outputPath": "C:\\Users\\fenix\\RiderProjects\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.5, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

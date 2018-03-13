@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22a1a720-e505-4e90-8963-cab64d3022a7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+              <folding>
+                <marker date="1520969106598" expanded="true" signature="0:41" ph="@..." />
+                <marker date="1520969106598" expanded="true" signature="43:123" ph="@..." />
+                <marker date="1520969106598" expanded="true" signature="76:123" ph="{...}" />
+                <marker date="1520969106598" expanded="true" signature="125:192" ph="@..." />
+                <marker date="1520969106598" expanded="true" signature="158:192" ph="{...}" />
+                <marker date="1520969106598" expanded="true" signature="196:3193" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="287:592" ph="&lt;ol.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="597:2736" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="649:1139" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="771:1124" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="832:1105" ph="&lt;p.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="931:1084" ph="&lt;a.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="1148:1661" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="1269:1646" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="1330:1627" ph="&lt;p.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="1453:1606" ph="&lt;a.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="1670:2188" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="1796:2173" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="1857:2154" ph="&lt;p.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="1980:2133" ph="&lt;a.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="2197:2725" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="2320:2710" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="2381:2691" ph="&lt;p.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="2517:2670" ph="&lt;a.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="2741:2962" ph="&lt;a.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="2967:3186" ph="&lt;a.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="3195:5482" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="3217:3474" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="3282:3463" ph="&lt;ul.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="3479:4152" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="3534:4141" ph="&lt;ul.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="4157:5040" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="4214:5029" ph="&lt;ul.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="5045:5475" ph="&lt;div.../&gt;" />
+                <marker date="1520969106598" expanded="true" signature="5110:5464" ph="&lt;ul.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Models/LoginDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/Login.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Models/LoginDto.cs" />
+        <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/Index.cshtml" />
+        <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/Login.cshtml" />
+        <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Startup.cs" />
+        <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs" />
+        <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/HomeController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="178" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PR01 - Primers passos amb dotnet core (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PR01 - Primers passos amb dotnet core (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PR01 - Primers passos amb dotnet core" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/bin/Debug/netcoreapp2.0/PR01 - Primers passos amb dotnet core.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/PR01 - Primers passos amb dotnet core.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser start="true" url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22a1a720-e505-4e90-8963-cab64d3022a7" name="Default" comment="" />
+      <created>1520963411688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520963411688</updated>
+      <workItem from="1520963423350" duration="6801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6801000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28683183" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1520963402081" expanded="true" signature="16:3400" ph="&lt;html.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="23:871" ph="&lt;head.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="219:409" ph="&lt;environment.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="414:863" ph="&lt;environment.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="872:3392" ph="&lt;body.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="883:1972" ph="&lt;nav.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="944:1961" ph="&lt;div.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="980:1522" ph="&lt;div.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="1024:1368" ph="&lt;button.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="1535:1946" ph="&lt;div.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="1590:1927" ph="&lt;ul.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="1977:2167" ph="&lt;div.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="2059:2156" ph="&lt;footer.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="2173:2427" ph="&lt;environment.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="2432:3336" ph="&lt;environment.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="2476:2824" ph="&lt;script.../&gt;" />
+            <marker date="1520963402081" expanded="true" signature="2833:3242" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1520963434116" expanded="false" signature="6:255" ph="..." />
+            <marker date="1520963434116" expanded="true" signature="304:625" ph="{...}" />
+            <marker date="1520963434116" expanded="true" signature="331:623" ph="{...}" />
+            <marker date="1520963434116" expanded="true" signature="384:442" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1520963402097" expanded="true" signature="69:235" ph="{...}" />
+            <marker date="1520963402097" expanded="true" signature="103:233" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/wwwroot/js/site.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/wwwroot/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/wwwroot/lib/jquery/dist/jquery.min.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <marker date="1520963402066" expanded="true" signature="0:39" ph="@..." />
+            <marker date="1520963402066" expanded="true" signature="99:231" ph="&lt;address.../&gt;" />
+            <marker date="1520963402066" expanded="true" signature="233:447" ph="&lt;address.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Models/LoginDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <marker date="1520964788695" expanded="true" signature="54:197" ph="{...}" />
+            <marker date="1520964788695" expanded="true" signature="83:195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="59" lean-forward="true" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+          <folding>
+            <marker date="1520968469819" expanded="true" signature="6:116" ph="..." />
+            <marker date="1520968469819" expanded="true" signature="177:599" ph="{...}" />
+            <marker date="1520968469819" expanded="true" signature="227:597" ph="{...}" />
+            <marker date="1520968469819" expanded="true" signature="294:354" ph="{...}" />
+            <marker date="1520968469819" expanded="true" signature="436:581" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <marker date="1520969848780" expanded="false" signature="6:284" ph="..." />
+            <marker date="1520969848780" expanded="true" signature="345:1092" ph="{...}" />
+            <marker date="1520969848780" expanded="true" signature="392:1090" ph="{...}" />
+            <marker date="1520969848780" expanded="true" signature="435:613" ph="{...}" />
+            <marker date="1520969848780" expanded="true" signature="651:771" ph="{...}" />
+            <marker date="1520969848780" expanded="true" signature="811:915" ph="{...}" />
+            <marker date="1520969848780" expanded="true" signature="953:1084" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <marker date="1520967994423" expanded="false" signature="6:258" ph="..." />
+            <marker date="1520967994423" expanded="true" signature="307:1622" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="334:1620" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="393:456" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="679:920" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="1108:1614" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="1155:1232" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="1249:1333" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="1431:1602" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/Login.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <marker date="1520966210416" expanded="true" signature="17:74" ph="@..." />
+            <marker date="1520966210416" expanded="true" signature="104:330" ph="&lt;form.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding>
+            <marker date="1520969106598" expanded="true" signature="0:41" ph="@..." />
+            <marker date="1520969106598" expanded="true" signature="43:123" ph="@..." />
+            <marker date="1520969106598" expanded="true" signature="76:123" ph="{...}" />
+            <marker date="1520969106598" expanded="true" signature="125:192" ph="@..." />
+            <marker date="1520969106598" expanded="true" signature="158:192" ph="{...}" />
+            <marker date="1520969106598" expanded="true" signature="196:3193" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="287:592" ph="&lt;ol.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="597:2736" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="649:1139" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="771:1124" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="832:1105" ph="&lt;p.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="931:1084" ph="&lt;a.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="1148:1661" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="1269:1646" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="1330:1627" ph="&lt;p.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="1453:1606" ph="&lt;a.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="1670:2188" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="1796:2173" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="1857:2154" ph="&lt;p.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="1980:2133" ph="&lt;a.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="2197:2725" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="2320:2710" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="2381:2691" ph="&lt;p.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="2517:2670" ph="&lt;a.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="2741:2962" ph="&lt;a.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="2967:3186" ph="&lt;a.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="3195:5482" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="3217:3474" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="3282:3463" ph="&lt;ul.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="3479:4152" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="3534:4141" ph="&lt;ul.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="4157:5040" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="4214:5029" ph="&lt;ul.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="5045:5475" ph="&lt;div.../&gt;" />
+            <marker date="1520969106598" expanded="true" signature="5110:5464" ph="&lt;ul.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

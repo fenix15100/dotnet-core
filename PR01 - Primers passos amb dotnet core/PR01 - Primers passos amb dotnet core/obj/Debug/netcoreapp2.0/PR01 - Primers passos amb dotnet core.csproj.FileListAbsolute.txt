@@ -1,0 +1,10 @@
+C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\bin\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.deps.json
+C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\bin\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.runtimeconfig.json
+C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\bin\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.runtimeconfig.dev.json
+C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\bin\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.dll
+C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\bin\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.pdb
+C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.csproj.CoreCompileInputs.cache
+C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.AssemblyInfoInputs.cache
+C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.AssemblyInfo.cs
+C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.dll
+C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.pdb
