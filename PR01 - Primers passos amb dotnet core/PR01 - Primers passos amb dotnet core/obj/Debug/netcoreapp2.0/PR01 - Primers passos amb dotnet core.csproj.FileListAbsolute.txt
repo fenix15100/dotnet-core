@@ -8,3 +8,13 @@ C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primer
 C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.AssemblyInfo.cs
 C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.dll
 C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.pdb
+C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\bin\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.deps.json
+C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\bin\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.runtimeconfig.json
+C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\bin\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.runtimeconfig.dev.json
+C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\bin\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.dll
+C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\bin\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.pdb
+C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.csproj.CoreCompileInputs.cache
+C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.AssemblyInfoInputs.cache
+C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.AssemblyInfo.cs
+C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.dll
+C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core\PR01 - Primers passos amb dotnet core\obj\Debug\netcoreapp2.0\PR01 - Primers passos amb dotnet core.pdb

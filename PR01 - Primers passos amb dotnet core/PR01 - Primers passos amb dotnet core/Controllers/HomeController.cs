@@ -16,9 +16,19 @@ namespace PR01___Primers_passos_amb_dotnet_core.Controllers
         {
            
             String data=HttpContext.Session.GetString("user");
-            ViewData["Message"] = data;
+
+            if (data != null)
+            {
+                ViewData["Message"] = data;
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Login", "Account");
+            }
+          
                
-            return View();
+            
         }
 
         public IActionResult About()

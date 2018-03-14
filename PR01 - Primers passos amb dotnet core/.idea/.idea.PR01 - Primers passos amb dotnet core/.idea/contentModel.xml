@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\fenix\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_PR01 - Primers passos amb dotnet core.-987688373.00" t="ExcludeRecursive" />
-    <e p="C:\Users\fenix\RiderProjects\PR01 - Primers passos amb dotnet core" t="IncludeFlat">
+    <e p="C:\GIT\dotnet-core\PR01 - Primers passos amb dotnet core" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="PR01 - Primers passos amb dotnet core" t="IncludeRecursive">
         <e p="appsettings.Development.json" t="Include" />
@@ -118,5 +117,6 @@
       </e>
       <e p="PR01 - Primers passos amb dotnet core.sln" t="IncludeFlat" />
     </e>
+    <e p="C:\Users\fenix\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_PR01 - Primers passos amb dotnet core.-2146258409.00" t="ExcludeRecursive" />
   </component>
 </project>

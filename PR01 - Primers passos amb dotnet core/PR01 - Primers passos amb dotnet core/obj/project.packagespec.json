@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\fenix\\RiderProjects\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core.csproj",
+    "projectUniqueName": "C:\\GIT\\dotnet-core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core.csproj",
     "projectName": "PR01 - Primers passos amb dotnet core",
-    "projectPath": "C:\\Users\\fenix\\RiderProjects\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core.csproj",
-    "outputPath": "C:\\Users\\fenix\\RiderProjects\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\obj\\",
+    "projectPath": "C:\\GIT\\dotnet-core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core.csproj",
+    "outputPath": "C:\\GIT\\dotnet-core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
