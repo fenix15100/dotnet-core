@@ -22,10 +22,11 @@ namespace PR01___Primers_passos_amb_dotnet_core.Controllers
                 ViewData["Message"] = data;
                 return View();
             }
-            else
-            {
-                return RedirectToAction("Login", "Account");
-            }
+            
+           
+                
+           return RedirectToAction("Login", "Account");
+            
           
                
             
