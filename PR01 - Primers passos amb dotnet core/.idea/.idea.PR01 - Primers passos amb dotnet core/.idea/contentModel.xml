@@ -30,6 +30,7 @@
           <e p="_ViewImports.cshtml" t="Include" />
           <e p="_ViewStart.cshtml" t="Include" />
           <e p="Account" t="Include">
+            <e p="GetUsersLdap.cshtml" t="Include" />
             <e p="Login.cshtml" t="Include" />
           </e>
           <e p="Home" t="Include">
@@ -117,6 +118,6 @@
       </e>
       <e p="PR01 - Primers passos amb dotnet core.sln" t="IncludeFlat" />
     </e>
-    <e p="C:\Users\fenix\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_PR01 - Primers passos amb dotnet core.-2146258409.00" t="ExcludeRecursive" />
+    <e p="C:\Users\franc\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_PR01 - Primers passos amb dotnet core.-2146258409.00" t="ExcludeRecursive" />
   </component>
 </project>

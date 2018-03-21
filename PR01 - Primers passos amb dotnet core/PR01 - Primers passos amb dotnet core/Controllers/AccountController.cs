@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Server.Kestrel.Internal.System.Collections.Sequences;
 using Novell.Directory.Ldap;
 using PR01___Primers_passos_amb_dotnet_core.Models;
 
@@ -12,6 +14,17 @@ namespace PR01___Primers_passos_amb_dotnet_core.Controllers
         // GET
         public IActionResult Login()
         {
+            if (HttpContext.Session.GetString("user")!=null)
+            {
+                return RedirectToAction("index", "Home"); 
+                
+            }
+
+            if (HttpContext.Session.GetString("error")!=null)
+            {
+                ViewData["error"] = HttpContext.Session.GetString("error");
+
+            }
             
             return View();
         }
@@ -20,9 +33,11 @@ namespace PR01___Primers_passos_amb_dotnet_core.Controllers
         public IActionResult Login(LoginDto loginDto)
         {
             
+            
             if (CheckLdap(loginDto))
             {
                 HttpContext.Session.SetString("user", loginDto.FirstName);
+                HttpContext.Session.Remove("error");
                 return RedirectToAction("index", "Home");   
             }
             
@@ -40,13 +55,13 @@ namespace PR01___Primers_passos_amb_dotnet_core.Controllers
         {
             
             var ldapConn = new LdapConnection();
-            ldapConn.Connect("192.168.123.240", 389);
+            ldapConn.Connect("192.168.1.101", 389);
 
             try
             {
-               ldapConn.Bind(@"cn="+loginDto.FirstName+",dc=fran,dc=local", loginDto.Password);
+               ldapConn.Bind(@"cn="+loginDto.FirstName+",ou=Users,dc=fran,dc=local", loginDto.Password);
                 return true;
-            }catch (Exception e)
+            }catch (LdapException e)
             {
 
                 Console.WriteLine(e);
@@ -58,17 +73,63 @@ namespace PR01___Primers_passos_amb_dotnet_core.Controllers
         }
 
 
-        public LdapSearchResults GetResult()
-        {   
-            var ldapConn = new LdapConnection();
-            ldapConn.Connect("192.168.123.240", 389);
+        public IActionResult GetUsersLdap()
+        {
+            List<String> ldapusers= new List<String>();
+            List<String> atributos= new List<String>();
             
-            string filter = "(ObjectClass=*)";
             
-            var query = ldapConn.Search("dc=fran,dc=local", LdapConnection.SCOPE_SUB, filter, null, false);
+            
+           var ldapConn = new LdapConnection();
+           ldapConn.Connect("192.168.1.101", 389);
+        
+           string filter = "(ObjectClass=inetOrgPerson)";
 
-            return query;
 
+            try{
+                LdapSearchResults query = ldapConn.Search("ou=Users,dc=fran,dc=local", LdapConnection.SCOPE_SUB, filter, null, false);
+                
+                
+                while (query.hasMore()){
+                    
+                    
+                    
+                    try {
+                        LdapEntry nextEntry =query.next();
+                        ldapusers.Add(nextEntry.DN);
+                        atributos.Add(nextEntry.getAttributeSet().ToString());                 
+
+                    }catch(LdapException e) {
+                        Console.WriteLine("Error Entry: " + e.LdapErrorMessage);
+                        
+                    }
+                }
+            }catch (LdapException e){
+                Console.WriteLine("Error Filtro: "+e.LdapErrorMessage);
+                throw;
+            }
+           
+            
+          
+               
+            ViewBag.ldapusers = ldapusers;
+            ViewBag.atributos = atributos;
+            return View();
+
+        }
+
+
+
+        public IActionResult Logout()
+        {
+            if (HttpContext.Session.GetString("user") != null)
+            {
+
+                HttpContext.Session.Remove("user");
+            }
+
+
+            return RedirectToAction("index", "Home");   
         }
 
         

@@ -1,0 +1,29 @@
+﻿
+
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Usuarios del dominio fran.local</h2>
+
+
+@{ int i = 0;}
+@foreach (var user in ViewBag.ldapusers)
+{   <div style="border: solid 2px lightseagreen">
+        <span>Usuario</span>
+        <br>
+        <p>@user</p>
+        <br>
+        <span>Atributos</span>
+        <ul>
+            <li>@ViewBag.atributos[i]</li>
+        
+        </ul>
+    </div>
+    <br>
+    i++;
+
+}
+
