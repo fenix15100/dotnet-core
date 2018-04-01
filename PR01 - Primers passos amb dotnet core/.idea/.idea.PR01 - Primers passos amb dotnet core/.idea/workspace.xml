@@ -14,57 +14,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AccountController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="93" column="20" lean-forward="false" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
-              <folding>
-                <marker date="1521665740873" expanded="false" signature="6:274" ph="..." />
-                <marker date="1521665740873" expanded="true" signature="335:3619" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="385:3617" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="452:845" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="523:627" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="690:795" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="919:1402" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="992:1209" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="1454:1922" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="1595:1757" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="1780:1877" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="1968:3337" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="2313:3028" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="2523:3014" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="2612:2844" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="2867:2996" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="3051:3161" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="3378:3601" ph="{...}" />
-                <marker date="1521665740873" expanded="true" signature="3451:3532" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LdapEntry.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/96/8ceee1f6/LdapEntry.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1634">
-              <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GetUsersLdap.cshtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetUsersLdap.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="405">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
-                <marker date="1521665925664" expanded="true" signature="3:60" ph="@..." />
-                <marker date="1521665925664" expanded="true" signature="120:428" ph="@..." />
-                <marker date="1521665925664" expanded="true" signature="160:428" ph="{...}" />
-                <marker date="1521665925664" expanded="true" signature="165:407" ph="&lt;div.../&gt;" />
-                <marker date="1521665925664" expanded="true" signature="326:396" ph="&lt;ul.../&gt;" />
+                <marker date="1522572220278" expanded="true" signature="1:58" ph="@..." />
+                <marker date="1522572220278" expanded="true" signature="118:426" ph="@..." />
+                <marker date="1522572220278" expanded="true" signature="158:426" ph="{...}" />
+                <marker date="1522572220278" expanded="true" signature="163:405" ph="&lt;div.../&gt;" />
+                <marker date="1522572220278" expanded="true" signature="324:394" ph="&lt;ul.../&gt;" />
               </folding>
             </state>
           </provider>
@@ -92,7 +52,7 @@
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetUsersLdap.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/fa/1a67f578/LdapSearchRequest.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/2d/54fe81e6/LdapConnection.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/96/8ceee1f6/LdapEntry.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/96/8ceee1f6/LdapEntry.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/8a/ecb34476/RfcLdapDN.cs" root0="SKIP_INSPECTION" />
@@ -119,6 +79,7 @@
         <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/Login.cshtml" />
+        <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetTreeLdap.cshtml" />
         <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs" />
         <option value="$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetUsersLdap.cshtml" />
       </list>
@@ -254,11 +215,13 @@
       <workItem from="1521311809812" duration="760000" />
       <workItem from="1521569607983" duration="2358000" />
       <workItem from="1521655843344" duration="10146000" />
+      <workItem from="1521926219985" duration="28000" />
+      <workItem from="1522568208057" duration="4427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22185000" />
+    <option name="totallyTimeSpent" value="26640000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -271,6 +234,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -286,7 +250,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38331574" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04963041" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -309,71 +273,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="63" lean-forward="false" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
-          <folding>
-            <marker date="1521665740873" expanded="false" signature="6:274" ph="..." />
-            <marker date="1521665740873" expanded="true" signature="335:3619" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="385:3617" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="452:845" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="523:627" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="690:795" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="919:1402" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="992:1209" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1454:1922" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1595:1757" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1780:1877" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1968:3337" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2313:3028" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2523:3014" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2612:2844" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2867:2996" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="3051:3161" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="3378:3601" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="3451:3532" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1521664902468" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1521664902468" expanded="true" signature="248:3245" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="339:644" ph="&lt;ol.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="649:2788" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="701:1191" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="823:1176" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="884:1157" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="983:1136" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1200:1713" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1321:1698" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1382:1679" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1505:1658" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1722:2240" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1848:2225" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1909:2206" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2032:2185" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2249:2777" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2372:2762" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2433:2743" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2569:2722" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2793:3014" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3019:3238" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3247:5534" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3269:3526" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3334:3515" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3531:4204" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3586:4193" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="4209:5092" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="4266:5081" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="5097:5527" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="5162:5516" ph="&lt;ul.../&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -381,39 +284,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <marker date="1521664902468" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1521664902468" expanded="true" signature="248:3245" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="339:644" ph="&lt;ol.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="649:2788" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="701:1191" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="823:1176" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="884:1157" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="983:1136" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1200:1713" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1321:1698" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1382:1679" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1505:1658" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1722:2240" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1848:2225" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1909:2206" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2032:2185" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2249:2777" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2372:2762" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2433:2743" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2569:2722" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2793:3014" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3019:3238" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3247:5534" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3269:3526" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3334:3515" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3531:4204" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3586:4193" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="4209:5092" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="4266:5081" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="5097:5527" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="5162:5516" ph="&lt;ul.../&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -421,16 +291,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding>
-            <marker date="1521312367397" expanded="true" signature="6:284" ph="..." />
-            <marker date="1521312367397" expanded="true" signature="345:1294" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="392:1292" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="435:815" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="551:654" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="853:973" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="1013:1117" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="1155:1286" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -438,10 +298,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding>
-            <marker date="1521657851246" expanded="true" signature="17:74" ph="@..." />
-            <marker date="1521657851246" expanded="true" signature="132:358" ph="&lt;form.../&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -450,25 +306,27 @@
         <state relative-caret-position="300">
           <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
           <folding>
-            <marker date="1521665740873" expanded="false" signature="6:274" ph="..." />
-            <marker date="1521665740873" expanded="true" signature="335:3619" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="385:3617" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="452:845" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="523:627" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="690:795" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="919:1402" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="992:1209" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1454:1922" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1595:1757" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1780:1877" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1968:3337" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2313:3028" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2523:3014" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2612:2844" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2867:2996" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="3051:3161" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="3378:3601" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="3451:3532" ph="{...}" />
+            <marker date="1522572120214" expanded="false" signature="6:274" ph="..." />
+            <marker date="1522572120214" expanded="true" signature="335:4837" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="385:4835" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="452:845" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="523:627" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="690:795" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="919:1402" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="992:1209" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="1454:2259" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="1712:2071" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="1742:1923" ph="/* Intentamos autentificarnos contra el dominio Ldap, utilizando los datos del objeto LoginDto ... */" />
+            <marker date="1522572120214" expanded="true" signature="2094:2214" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="2305:4554" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="2917:4108" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="3213:4094" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="3302:3819" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="3328:3563" ph="/* Obtenemos el usuario iterado y obtenemos su DN y los metemos en la lista, hacemos lo mismo con ... */" />
+            <marker date="1522572120214" expanded="true" signature="3842:4076" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="4131:4335" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="4596:4819" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="4669:4750" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -477,39 +335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1521664902468" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1521664902468" expanded="true" signature="248:3245" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="339:644" ph="&lt;ol.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="649:2788" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="701:1191" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="823:1176" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="884:1157" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="983:1136" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1200:1713" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1321:1698" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1382:1679" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1505:1658" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1722:2240" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1848:2225" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1909:2206" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2032:2185" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2249:2777" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2372:2762" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2433:2743" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2569:2722" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2793:3014" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3019:3238" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3247:5534" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3269:3526" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3334:3515" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3531:4204" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3586:4193" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="4209:5092" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="4266:5081" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="5097:5527" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="5162:5516" ph="&lt;ul.../&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,7 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,6 +426,174 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="230" column="18" lean-forward="false" selection-start-line="230" selection-start-column="18" selection-end-line="230" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/df/847be9f0/CSharpArgumentInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FE4147F-CD8F-4ADE-A9BA-8AA02323CB61/cf/2c4434b2/SetMemberBinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/8a/efa1e509/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/787074D2-46AF-4375-80EB-C759424BDC2C/7a/d982f814/Enumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="3465" column="8" lean-forward="false" selection-start-line="3465" selection-start-column="8" selection-end-line="3465" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/22/c10d87f8/CSharpSetMemberBinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/fd/b5b2bdb7/Binder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="88" column="6" lean-forward="false" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/a4/9ed68866/LdapSearchConstraints.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="237" column="8" lean-forward="false" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/63/9989ec2c/LdapConstraints.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="254" column="6" lean-forward="false" selection-start-line="254" selection-start-column="6" selection-end-line="254" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/e0/9cfd835a/EncodingProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="82" column="8" lean-forward="false" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/90/af73bf6a/RuntimeHelpers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="75" column="8" lean-forward="false" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/9a/1b0caf89/UTF8Encoding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="77" column="6" lean-forward="false" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/80/02200735/Encoding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="507" column="6" lean-forward="false" selection-start-line="507" selection-start-column="6" selection-end-line="507" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/62/37438cd7/Asn1OctetString.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="54" column="8" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/1b/6606e862/RfcLdapString.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/8a/ecb34476/RfcLdapDN.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/fa/1a67f578/LdapSearchRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="281" column="8" lean-forward="false" selection-start-line="281" selection-start-column="8" selection-end-line="281" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/ea/195f665a/ControllerActionInvoker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="155" column="14" lean-forward="false" selection-start-line="155" selection-start-column="14" selection-end-line="155" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/07/ce57aa5e/AsyncTaskMethodBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/2d/54fe81e6/LdapConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="2391" column="6" lean-forward="false" selection-start-line="2391" selection-start-column="6" selection-end-line="2391" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/1f/b0edd80a/LdapAttributeSet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1141">
+          <caret line="335" column="35" lean-forward="true" selection-start-line="335" selection-start-column="35" selection-end-line="335" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/9c/0bda356b/ExecutionContextSwitcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/67/b37667c8/LdapException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="258" column="15" lean-forward="false" selection-start-line="258" selection-start-column="15" selection-end-line="258" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/96/8ceee1f6/LdapEntry.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetTreeLdap.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -611,7 +603,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1521312367397" expanded="true" signature="6:284" ph="..." />
+            <marker date="1521312367397" expanded="false" signature="6:284" ph="..." />
             <marker date="1521312367397" expanded="true" signature="345:1294" ph="{...}" />
             <marker date="1521312367397" expanded="true" signature="392:1292" ph="{...}" />
             <marker date="1521312367397" expanded="true" signature="435:815" ph="{...}" />
@@ -623,499 +615,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/df/847be9f0/CSharpArgumentInfo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FE4147F-CD8F-4ADE-A9BA-8AA02323CB61/cf/2c4434b2/SetMemberBinder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/8a/efa1e509/List`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/787074D2-46AF-4375-80EB-C759424BDC2C/7a/d982f814/Enumerable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="3465" column="8" lean-forward="false" selection-start-line="3465" selection-start-column="8" selection-end-line="3465" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/22/c10d87f8/CSharpSetMemberBinder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/fd/b5b2bdb7/Binder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="88" column="6" lean-forward="false" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/a4/9ed68866/LdapSearchConstraints.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="237" column="8" lean-forward="false" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/63/9989ec2c/LdapConstraints.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="254" column="6" lean-forward="false" selection-start-line="254" selection-start-column="6" selection-end-line="254" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/e0/9cfd835a/EncodingProvider.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="82" column="8" lean-forward="false" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/90/af73bf6a/RuntimeHelpers.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="75" column="8" lean-forward="false" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/9a/1b0caf89/UTF8Encoding.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="77" column="6" lean-forward="false" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/80/02200735/Encoding.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="507" column="6" lean-forward="false" selection-start-line="507" selection-start-column="6" selection-end-line="507" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/62/37438cd7/Asn1OctetString.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="54" column="8" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/1b/6606e862/RfcLdapString.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/8a/ecb34476/RfcLdapDN.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/fa/1a67f578/LdapSearchRequest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="281" column="8" lean-forward="false" selection-start-line="281" selection-start-column="8" selection-end-line="281" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/ea/195f665a/ControllerActionInvoker.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="155" column="14" lean-forward="false" selection-start-line="155" selection-start-column="14" selection-end-line="155" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/07/ce57aa5e/AsyncTaskMethodBuilder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/2d/54fe81e6/LdapConnection.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="2391" column="6" lean-forward="false" selection-start-line="2391" selection-start-column="6" selection-end-line="2391" selection-end-column="6" />
-          <folding>
-            <marker date="1521656767101" expanded="true" signature="0:383" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1521656767101" expanded="false" signature="391:506" ph="..." />
-            <marker date="1521656767101" expanded="true" signature="539:125943" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="544:1389" ph="///     The central class that encapsulates the connection ... " />
-            <marker date="1521656767101" expanded="true" signature="1450:125941" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="1712:1892" ph="///     Used with search to specify that the scope of entrys to search is to ... " />
-            <marker date="1521656767101" expanded="true" signature="1934:2143" ph="///     Used with search to specify that the scope of entrys to search is to ... " />
-            <marker date="1521656767101" expanded="true" signature="2184:2394" ph="///     Used with search to specify that the scope of entrys to search is to ... " />
-            <marker date="1521656767101" expanded="true" signature="2435:2617" ph="///     Used with search instead of an attribute list to indicate that no ... " />
-            <marker date="1521656767101" expanded="true" signature="2664:2851" ph="///     Used with search instead of an attribute list to indicate that all ... " />
-            <marker date="1521656767101" expanded="true" signature="2902:3334" ph="///     Specifies the Ldapv3 protocol version when performing a bind operation. ... " />
-            <marker date="1521656767101" expanded="true" signature="3373:3641" ph="///     The default port number for Ldap servers. ... " />
-            <marker date="1521656767101" expanded="true" signature="3687:3936" ph="///     The default SSL port number for Ldap servers. ... " />
-            <marker date="1521656767101" expanded="true" signature="3986:4205" ph="///     A string that can be passed in to the getProperty method. ... " />
-            <marker date="1521656767101" expanded="true" signature="4269:4520" ph="///     A string that can be passed in to the getProperty method. ... " />
-            <marker date="1521656767101" expanded="true" signature="4594:4844" ph="///     A string that can be passed in to the getProperty method. ... " />
-            <marker date="1521656767101" expanded="true" signature="4918:5265" ph="///     A string that corresponds to the server shutdown notification OID. ... " />
-            <marker date="1521656767101" expanded="true" signature="5526:5642" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="5648:5938" ph="///     Returns the protocol version uses to authenticate. ... " />
-            <marker date="1521656767101" expanded="true" signature="5977:6184" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="5993:6178" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="6190:6604" ph="///     Returns the distinguished name (DN) used for as the bind name during ... " />
-            <marker date="1521656767101" expanded="true" signature="6647:6937" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="6663:6931" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="6943:7565" ph="///     Returns the method used to authenticate the connection. The return ... " />
-            <marker date="1521656767101" expanded="true" signature="7612:7785" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="7628:7779" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="7791:8213" ph="///     Returns the properties if any specified on binding with a ... " />
-            <marker date="1521656767101" expanded="true" signature="8263:8458" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="8279:8452" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="8464:8894" ph="///     Returns the call back handler if any specified on binding with a ... " />
-            <marker date="1521656767101" expanded="true" signature="8944:9121" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="8960:9115" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="9127:10348" ph="///     Returns a copy of the set of constraints associated with this ... " />
-            <marker date="1521656767101" expanded="true" signature="10395:11395" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="10411:10488" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="10498:11389" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="10550:10640" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="10653:11381" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="11401:11752" ph="///     Returns the host name of the Ldap server to which the object is or ... " />
-            <marker date="1521656767101" expanded="true" signature="11783:11852" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="11799:11846" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="11858:12175" ph="///     Returns the port number of the Ldap server to which the object is or ... " />
-            <marker date="1521656767101" expanded="true" signature="12203:12272" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="12219:12266" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="12278:12927" ph="///     Returns a copy of the set of search constraints associated with this ... " />
-            <marker date="1521656767101" expanded="true" signature="12986:13091" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="13002:13085" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="13097:13293" ph="///     Indicates whther the perform Secure Operation or not ... " />
-            <marker date="1521656767101" expanded="true" signature="13327:13452" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="13343:13389" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="13399:13446" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="13458:13689" ph="///     Connection timeout in milliseconds, default is 0 which will use ... " />
-            <marker date="1521656767101" expanded="true" signature="13722:13875" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="13738:13798" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="13808:13869" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="13881:14148" ph="///     Indicates whether the object has authenticated to the connected Ldap ... " />
-            <marker date="1521656767101" expanded="true" signature="14178:14248" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="14194:14242" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="14254:14504" ph="///     Indicates whether the connection represented by this object is open ... " />
-            <marker date="1521656767101" expanded="true" signature="14538:14612" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="14554:14606" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="14618:14970" ph="///     Indicatates if the connection is protected by TLS. ... " />
-            <marker date="1521656767101" expanded="true" signature="14998:15066" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="15014:15060" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="15072:15784" ph="///     Returns the Server Controls associated with the most recent response ... " />
-            <marker date="1521656767101" expanded="true" signature="15834:16526" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="15850:16520" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="16129:16370" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="16386:16479" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="16532:16690" ph="///     Return the Connection object associated with this LdapConnection ... " />
-            <marker date="1521656767101" expanded="true" signature="16733:16797" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="16749:16791" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="16803:16971" ph="///     Return the Connection object name associated with this LdapConnection ... " />
-            <marker date="1521656767101" expanded="true" signature="17014:17078" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="17030:17072" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="17349:17671" ph="///     Constructs a new LdapConnection object, which will use the supplied ... " />
-            <marker date="1521656767101" expanded="true" signature="17699:17771" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="17777:18818" ph="///     Returns a copy of the object with a private context, but sharing the ... " />
-            <marker date="1521656767101" expanded="true" signature="18844:19748" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="18915:19016" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="19043:19131" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="19356:19619" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="19775:19813" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="19867:19948" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="19954:21261" ph="///Returns a property of a connection object. ... " />
-            <marker date="1521656767101" expanded="true" signature="21312:21666" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="21672:22231" ph="///     Registers an object to be notified on arrival of an unsolicited ... " />
-            <marker date="1521656767101" expanded="true" signature="22336:22454" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="22460:22923" ph="///     Deregisters an object so that it will no longer be notified on ... " />
-            <marker date="1521656767101" expanded="true" signature="23031:23152" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="23158:23727" ph="///     Starts Transport Layer Security (TLS) protocol on this connection ... " />
-            <marker date="1521656767101" expanded="true" signature="23762:24469" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="24010:24384" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="24398:24463" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="24475:25432" ph="///     Stops Transport Layer Security(TLS) on the LDAPConnection and reverts ... " />
-            <marker date="1521656767101" expanded="true" signature="25466:25895" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="25612:25772" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="25786:25847" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="25901:26337" ph="///     Notifies the server not to send additional results associated with ... " />
-            <marker date="1521656767101" expanded="true" signature="26396:26475" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="26481:26994" ph="///     Notifies the server not to send additional results associated with ... " />
-            <marker date="1521656767101" expanded="true" signature="27075:27112" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="27118:27525" ph="///Abandons an asynchronous operation. ... " />
-            <marker date="1521656767101" expanded="true" signature="27565:27639" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="27645:28194" ph="///     Abandons an asynchronous operation, using the specified ... " />
-            <marker date="1521656767101" expanded="true" signature="28256:28475" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="28272:28345" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="28383:28469" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="28481:29067" ph="///     Abandons all outstanding operations managed by the queue. ... " />
-            <marker date="1521656767101" expanded="true" signature="29123:29200" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="29206:29869" ph="///     Abandons all outstanding operations managed by the queue. ... " />
-            <marker date="1521656767101" expanded="true" signature="29947:30209" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="30215:30592" ph="///Synchronously adds an entry to the directory. ... " />
-            <marker date="1521656767101" expanded="true" signature="30637:30710" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="30716:31234" ph="///     Synchronously adds an entry to the directory, using the specified ... " />
-            <marker date="1521656767101" expanded="true" signature="31301:31889" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="31581:31704" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="31718:31803" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="31895:32481" ph="///Asynchronously adds an entry to the directory. ... " />
-            <marker date="1521656767101" expanded="true" signature="32564:32651" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="32657:33384" ph="///     Asynchronously adds an entry to the directory, using the specified ... " />
-            <marker date="1521656767101" expanded="true" signature="33489:33949" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="33955:35359" ph="///     Synchronously authenticates to the Ldap server (that the object is ... " />
-            <marker date="1521656767101" expanded="true" signature="35414:35496" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="35502:37040" ph="///     Synchronously authenticates to the Ldap server (that the object is ... " />
-            <marker date="1521656767101" expanded="true" signature="37108:37196" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="37202:38694" ph="///     Synchronously authenticates to the Ldap server (that the object is ... " />
-            <marker date="1521656767101" expanded="true" signature="38771:38821" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="38827:40478" ph="///     Synchronously authenticates to the Ldap server (that the object is ... " />
-            <marker date="1521656767101" expanded="true" signature="40568:40784" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="40790:42044" ph="///     Synchronously authenticates to the Ldap server (that the object is ... " />
-            <marker date="1521656767101" expanded="true" signature="42139:42227" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="42233:43573" ph="///     Synchronously authenticates to the Ldap server (that the object is ... " />
-            <marker date="1521656767101" expanded="true" signature="43690:44337" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="44029:44152" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="44166:44251" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="44343:45786" ph="///     Asynchronously authenticates to the Ldap server (that the object is ... " />
-            <marker date="1521656767101" expanded="true" signature="45919:46021" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="46027:47557" ph="///     Asynchronously authenticates to the Ldap server (that the object is ... " />
-            <marker date="1521656767101" expanded="true" signature="47712:48624" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="47952:48011" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="48300:48490" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="48630:49467" ph="///     Synchronously checks to see if an entry contains an attribute ... " />
-            <marker date="1521656767101" expanded="true" signature="49530:49617" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="49623:50567" ph="///     Synchronously checks to see if an entry contains an attribute with a ... " />
-            <marker date="1521656767101" expanded="true" signature="50652:51424" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="50964:51087" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="51101:51186" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="51430:52621" ph="///     Asynchronously compares an attribute value with one in the directory, ... " />
-            <marker date="1521656767101" expanded="true" signature="52722:52816" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="52822:54100" ph="///     Asynchronously compares an attribute value with one in the directory, ... " />
-            <marker date="1521656767101" expanded="true" signature="54223:54707" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="54713:55937" ph="///     Connects to the specified host and port. ... " />
-            <marker date="1521656767101" expanded="true" signature="55992:56938" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="56118:56932" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="56138:56810" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="56295:56692" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="56351:56680" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="56383:56531" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="56566:56666" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="56843:56924" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="56944:57495" ph="///     Synchronously deletes the entry with the specified distinguished name ... " />
-            <marker date="1521656767101" expanded="true" signature="57537:57610" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="57616:58274" ph="///     Synchronously deletes the entry with the specified distinguished name ... " />
-            <marker date="1521656767101" expanded="true" signature="58338:58926" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="58618:58741" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="58755:58840" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="58932:59741" ph="///     Asynchronously deletes the entry with the specified distinguished name ... " />
-            <marker date="1521656767101" expanded="true" signature="59821:59908" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="59914:60818" ph="///     Asynchronously deletes the entry with the specified distinguished name ... " />
-            <marker date="1521656767101" expanded="true" signature="60920:61232" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="61238:61763" ph="///     Synchronously disconnects from the Ldap server. ... " />
-            <marker date="1521656767101" expanded="true" signature="61800:61841" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="61847:62026" ph="///Synchronously disconnect from the server ... " />
-            <marker date="1521656767101" expanded="true" signature="62060:62116" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="62122:62950" ph="///     Provides a synchronous means to access extended, non-mandatory ... " />
-            <marker date="1521656767101" expanded="true" signature="63034:63125" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="63131:64059" ph="///     Provides a synchronous means to access extended, non-mandatory ... " />
-            <marker date="1521656767101" expanded="true" signature="64165:64818" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="64472:64595" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="64609:64694" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="64824:65864" ph="///     Provides an asynchronous means to access extended, non-mandatory ... " />
-            <marker date="1521656767101" expanded="true" signature="65970:66068" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="66074:67204" ph="///     Provides an asynchronous means to access extended, non-mandatory ... " />
-            <marker date="1521656767101" expanded="true" signature="67332:67544" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="67550:67824" ph="///     Formulates the extended operation, constraints into an ... " />
-            <marker date="1521656767101" expanded="true" signature="67937:68187" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="68193:69103" ph="///     Synchronously makes a single change to an existing entry in the ... " />
-            <marker date="1521656767101" expanded="true" signature="69167:69245" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="69251:70294" ph="///     Synchronously makes a single change to an existing entry in the ... " />
-            <marker date="1521656767101" expanded="true" signature="70380:70512" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="70449:70470" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="70518:71461" ph="///     Synchronously makes a set of changes to an existing entry in the ... " />
-            <marker date="1521656767101" expanded="true" signature="71528:71607" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="71613:72715" ph="///     Synchronously makes a set of changes to an existing entry in the ... " />
-            <marker date="1521656767101" expanded="true" signature="72804:73398" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="73090:73213" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="73227:73312" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="73404:74498" ph="///     Asynchronously makes a single change to an existing entry in the ... " />
-            <marker date="1521656767101" expanded="true" signature="74600:74692" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="74698:75909" ph="///     Asynchronously makes a single change to an existing entry in the ... " />
-            <marker date="1521656767101" expanded="true" signature="76033:76179" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="76102:76123" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="76185:77366" ph="///     Asynchronously makes a set of changes to an existing entry in the ... " />
-            <marker date="1521656767101" expanded="true" signature="77471:77564" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="77570:78868" ph="///     Asynchronously makes a set of changes to an existing entry in the ... " />
-            <marker date="1521656767101" expanded="true" signature="78995:79313" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="79319:79730" ph="///     Synchronously reads the entry for the specified distiguished name (DN) ... " />
-            <marker date="1521656767101" expanded="true" signature="79775:79835" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="79841:80397" ph="///     Synchronously reads the entry for the specified distiguished name (DN), ... " />
-            <marker date="1521656767101" expanded="true" signature="80470:80533" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="80539:81043" ph="///     Synchronously reads the entry for the specified distinguished name (DN) ... " />
-            <marker date="1521656767101" expanded="true" signature="81104:81171" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="81177:81827" ph="///     Synchronously reads the entry for the specified distinguished name (DN), ... " />
-            <marker date="1521656767101" expanded="true" signature="81916:82301" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="82106:82271" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="82307:83181" ph="///     Synchronously reads the entry specified by the Ldap URL. ... " />
-            <marker date="1521656767101" expanded="true" signature="83229:83500" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="83506:84494" ph="///     Synchronously reads the entry specified by the Ldap URL, using the ... " />
-            <marker date="1521656767101" expanded="true" signature="84570:84847" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="84853:85528" ph="///     Synchronously renames an existing entry in the directory. ... " />
-            <marker date="1521656767101" expanded="true" signature="85604:85699" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="85705:86525" ph="///     Synchronously renames an existing entry in the directory, using the ... " />
-            <marker date="1521656767101" expanded="true" signature="86623:86701" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="86707:87614" ph="///     Synchronously renames an existing entry in the directory, possibly ... " />
-            <marker date="1521656767101" expanded="true" signature="87710:87818" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="87824:88879" ph="///     Synchronously renames an existing entry in the directory, using the ... " />
-            <marker date="1521656767101" expanded="true" signature="88997:89620" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="89312:89435" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="89449:89534" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="89626:90512" ph="///     Asynchronously renames an existing entry in the directory. ... " />
-            <marker date="1521656767101" expanded="true" signature="90626:90735" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="90741:91772" ph="///     Asynchronously renames an existing entry in the directory, using the ... " />
-            <marker date="1521656767101" expanded="true" signature="91908:92000" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="92006:93119" ph="///     Asynchronously renames an existing entry in the directory, possibly ... " />
-            <marker date="1521656767101" expanded="true" signature="93253:93375" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="93381:94643" ph="///     Asynchronously renames an existing entry in the directory, using the ... " />
-            <marker date="1521656767101" expanded="true" signature="94799:95167" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="95173:96398" ph="///     Synchronously performs the search specified by the parameters. ... " />
-            <marker date="1521656767101" expanded="true" signature="96514:96612" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="96618:98446" ph="///     Synchronously performs the search specified by the parameters, ... " />
-            <marker date="1521656767101" expanded="true" signature="98590:98829" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="98835:100270" ph="///     Asynchronously performs the search specified by the parameters. ... " />
-            <marker date="1521656767101" expanded="true" signature="100407:100512" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="100518:102228" ph="///     Asynchronously performs the search specified by the parameters, ... " />
-            <marker date="1521656767101" expanded="true" signature="102393:103109" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="102804:102910" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="103115:103538" ph="///     Synchronously performs the search specified by the Ldap URL, returning ... " />
-            <marker date="1521656767101" expanded="true" signature="103596:103681" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="103687:104891" ph="///     Synchronously perfoms the search specified by the Ldap URL, using ... " />
-            <marker date="1521656767101" expanded="true" signature="104977:105441" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="105447:106764" ph="///     Sends an Ldap request to a directory server. ... " />
-            <marker date="1521656767101" expanded="true" signature="106857:106940" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="106946:108329" ph="///     Sends an Ldap request to a directory server. ... " />
-            <marker date="1521656767101" expanded="true" signature="108444:109196" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="108710:108896" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="108994:109104" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="109135:109169" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="109202:109740" ph="///     Locates the appropriate message agent and sends ... " />
-            <marker date="1521656767101" expanded="true" signature="109871:110186" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="109928:110026" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="110192:110683" ph="///     get an LdapConnection object so that we can follow a referral. ... " />
-            <marker date="1521656767101" expanded="true" signature="110750:114555" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="111031:112489" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="111090:112481" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="111114:112357" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="111247:111472" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="111539:112111" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="111571:111964" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="111721:111948" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="111786:111930" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="111999:112097" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="112149:112299" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="112388:112471" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="112550:113777" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="112646:113371" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="112917:113142" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="113401:113769" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="113438:113759" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="113466:113604" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="113642:113747" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="114205:114250" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="114561:115028" ph="///     Check the result code and throw an exception if needed. ... " />
-            <marker date="1521656767101" expanded="true" signature="115128:115539" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="115197:115488" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="115260:115395" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="115411:115480" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="115545:117265" ph="///     Follow referrals if necessary referral following enabled. ... " />
-            <marker date="1521656767101" expanded="true" signature="117462:119933" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="117762:117866" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="117877:118185" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="117992:118082" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="118195:119482" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="118669:118883" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="118923:119283" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="119509:119927" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="119939:120475" ph="///     Builds a new request replacing dn, scope, and filter where approprate ... " />
-            <marker date="1521656767101" expanded="true" signature="120560:121161" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="120658:121155" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="120874:120956" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="121098:121141" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="121231:121795" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="121337:121789" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="121357:121520" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="121564:121656" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="121689:121781" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="121801:122758" ph="///     Retrieves the schema associated with a particular schema DN in the ... " />
-            <marker date="1521656767101" expanded="true" signature="122817:122907" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="122913:124082" ph="///     Retrieves the Distiguished Name (DN) for the schema advertised in the ... " />
-            <marker date="1521656767101" expanded="true" signature="124122:124169" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="124175:125349" ph="///     Retrieves the Distiguished Name (DN) of the schema associated with a ... " />
-            <marker date="1521656767101" expanded="true" signature="125398:125937" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="125701:125734" ph="{...}" />
-            <marker date="1521656767101" expanded="true" signature="125858:125891" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/1f/b0edd80a/LdapAttributeSet.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1141">
-          <caret line="335" column="35" lean-forward="true" selection-start-line="335" selection-start-column="35" selection-end-line="335" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/9c/0bda356b/ExecutionContextSwitcher.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding>
-            <marker date="1521662053667" expanded="true" signature="0:347" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1521662053667" expanded="true" signature="375:814" ph="{...}" />
-            <marker date="1521662053667" expanded="true" signature="420:812" ph="{...}" />
-            <marker date="1521662053667" expanded="true" signature="548:808" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900">
-          <caret line="9" column="68" lean-forward="true" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <marker date="1521664902468" expanded="true" signature="0:41" ph="@..." />
             <marker date="1521664902468" expanded="true" signature="248:3245" ph="&lt;div.../&gt;" />
@@ -1152,140 +655,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/67/b37667c8/LdapException.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="258" column="15" lean-forward="false" selection-start-line="258" selection-start-column="15" selection-end-line="258" selection-end-column="15" />
-          <folding>
-            <marker date="1521665048349" expanded="true" signature="0:382" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1521665048349" expanded="false" signature="390:464" ph="..." />
-            <marker date="1521665048349" expanded="true" signature="497:48148" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="502:10405" ph="///     Thrown to indicate that an Ldap exception has occurred. This is a general ... " />
-            <marker date="1521665048349" expanded="true" signature="10446:48146" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="10685:10823" ph="///     Indicates the requested client operation completed successfully. ... " />
-            <marker date="1521665048349" expanded="true" signature="10862:11184" ph="///     Indicates an internal error. ... " />
-            <marker date="1521665048349" expanded="true" signature="11232:11407" ph="///     Indicates that the server has received an invalid or malformed request ... " />
-            <marker date="1521665048349" expanded="true" signature="11453:11718" ph="///     Indicates that the operation's time limit specified by either the ... " />
-            <marker date="1521665048349" expanded="true" signature="11769:12016" ph="///     Indicates that in a search operation, the size limit specified by ... " />
-            <marker date="1521665048349" expanded="true" signature="12067:12252" ph="///     Does not indicate an error condition. Indicates that the results of ... " />
-            <marker date="1521665048349" expanded="true" signature="12297:12480" ph="///     Does not indicate an error condition. Indicates that the results of a ... " />
-            <marker date="1521665048349" expanded="true" signature="12524:12741" ph="///     Indicates that during a bind operation the client requested an ... " />
-            <marker date="1521665048349" expanded="true" signature="12798:13647" ph="///     Indicates a problem with the level of authentication. ... " />
-            <marker date="1521665048349" expanded="true" signature="13699:13907" ph="///     Returned by some Ldap servers to Ldapv2 clients to indicate that a referral ... " />
-            <marker date="1521665048349" expanded="true" signature="13959:14223" ph="///     Does not indicate an error condition. In Ldapv3, indicates that the server ... " />
-            <marker date="1521665048349" expanded="true" signature="14264:14448" ph="///     Indicates that an Ldap server limit set by an administrative authority ... " />
-            <marker date="1521665048349" expanded="true" signature="14501:14857" ph="///     Indicates that the Ldap server was unable to satisfy a request because ... " />
-            <marker date="1521665048349" expanded="true" signature="14920:15156" ph="///     Indicates that the session is not protected by a protocol such as ... " />
-            <marker date="1521665048349" expanded="true" signature="15213:15512" ph="///     Does not indicate an error condition, but indicates that the server is ... " />
-            <marker date="1521665048349" expanded="true" signature="15566:15760" ph="///     Indicates that the attribute specified in the modify or compare ... " />
-            <marker date="1521665048349" expanded="true" signature="15810:16022" ph="///     Indicates that the attribute specified in the modify or add operation ... " />
-            <marker date="1521665048349" expanded="true" signature="16079:16297" ph="///     Indicates that the matching rule specified in the search filter does ... " />
-            <marker date="1521665048349" expanded="true" signature="16352:16691" ph="///     Indicates that the attribute value specified in a modify, add, or ... " />
-            <marker date="1521665048349" expanded="true" signature="16744:16963" ph="///     Indicates that the attribute value specified in a modify or add ... " />
-            <marker date="1521665048349" expanded="true" signature="17021:17260" ph="///     Indicates that the attribute value specified in an add, compare, or ... " />
-            <marker date="1521665048349" expanded="true" signature="17317:17767" ph="///     Indicates the target object cannot be found. ... " />
-            <marker date="1521665048349" expanded="true" signature="17814:17954" ph="///     Indicates that an error occurred when an alias was dereferenced. ... " />
-            <marker date="1521665048349" expanded="true" signature="18000:18307" ph="///     Indicates that the syntax of the DN is incorrect. ... " />
-            <marker date="1521665048349" expanded="true" signature="18357:18628" ph="///     Indicates that the specified operation cannot be performed on a ... " />
-            <marker date="1521665048349" expanded="true" signature="18668:18936" ph="///     Indicates that during a search operation, either the client does not ... " />
-            <marker date="1521665048349" expanded="true" signature="18996:19683" ph="///     Indicates that during a bind operation, the client is attempting to use ... " />
-            <marker date="1521665048349" expanded="true" signature="19744:20260" ph="///     Indicates that invalid information was passed during a bind operation. ... " />
-            <marker date="1521665048349" expanded="true" signature="20312:20506" ph="///     Indicates that the caller does not have sufficient rights to perform ... " />
-            <marker date="1521665048349" expanded="true" signature="20565:20836" ph="///     Indicates that the Ldap server is too busy to process the client request ... " />
-            <marker date="1521665048349" expanded="true" signature="20873:21068" ph="///     Indicates that the Ldap server cannot process the client's bind ... " />
-            <marker date="1521665048349" expanded="true" signature="21112:21646" ph="///     Indicates that the Ldap server cannot process the request because of ... " />
-            <marker date="1521665048349" expanded="true" signature="21699:21893" ph="///     Indicates that the client discovered an alias or referral loop, ... " />
-            <marker date="1521665048349" expanded="true" signature="21937:22514" ph="///     Indicates that the add or modify DN operation violates the schema's ... " />
-            <marker date="1521665048349" expanded="true" signature="22563:23472" ph="///     Indicates that the add, modify, or modify DN operation violates the ... " />
-            <marker date="1521665048349" expanded="true" signature="23527:23965" ph="///     Indicates that the requested operation is permitted only on leaf entries. ... " />
-            <marker date="1521665048349" expanded="true" signature="24020:24239" ph="///     Indicates that the modify operation attempted to remove an attribute ... " />
-            <marker date="1521665048349" expanded="true" signature="24290:24579" ph="///     Indicates that the add operation attempted to add an entry that already ... " />
-            <marker date="1521665048349" expanded="true" signature="24632:24830" ph="///     Indicates that the modify operation attempted to modify the structure ... " />
-            <marker date="1521665048349" expanded="true" signature="24891:25118" ph="///     Indicates that the modify DN operation moves the entry from one Ldap ... " />
-            <marker date="1521665048349" expanded="true" signature="25172:25277" ph="///     Indicates an unknown error condition. ... " />
-            <marker date="1521665048349" expanded="true" signature="25315:25594" ph="///     Indicates that the Ldap libraries cannot establish an initial connection ... " />
-            <marker date="1521665048349" expanded="true" signature="25638:25826" ph="///     Indicates that the Ldap client has an error. This is usually a failed ... " />
-            <marker date="1521665048349" expanded="true" signature="25870:26068" ph="///     Indicates that the Ldap client encountered errors when encoding an ... " />
-            <marker date="1521665048349" expanded="true" signature="26115:26306" ph="///     Indicates that the Ldap client encountered errors when decoding an ... " />
-            <marker date="1521665048349" expanded="true" signature="26353:26529" ph="///     Indicates that the time limit of the Ldap client was exceeded while ... " />
-            <marker date="1521665048349" expanded="true" signature="26574:26739" ph="///     Indicates that a bind method was called with an unknown ... " />
-            <marker date="1521665048349" expanded="true" signature="26784:26945" ph="///     Indicates that the search method was called with an invalid ... " />
-            <marker date="1521665048349" expanded="true" signature="26990:27120" ph="///     Indicates that the user cancelled the Ldap operation. ... " />
-            <marker date="1521665048349" expanded="true" signature="27167:27336" ph="///     Indicates that a dynamic memory allocation method failed when calling ... " />
-            <marker date="1521665048349" expanded="true" signature="27378:27580" ph="///     Indicates that the Ldap client has lost either its connection or ... " />
-            <marker date="1521665048349" expanded="true" signature="27626:27966" ph="///     Indicates that the requested functionality is not supported by the ... " />
-            <marker date="1521665048349" expanded="true" signature="28017:28244" ph="///     Indicates that the client requested a control that the libraries ... " />
-            <marker date="1521665048349" expanded="true" signature="28294:28423" ph="///     Indicates that the Ldap server sent no results. ... " />
-            <marker date="1521665048349" expanded="true" signature="28475:28622" ph="///     Indicates that more results are chained in the result message. ... " />
-            <marker date="1521665048349" expanded="true" signature="28677:28855" ph="///     Indicates the Ldap libraries detected a loop. Usually this happens ... " />
-            <marker date="1521665048349" expanded="true" signature="28899:29690" ph="///     Indicates that the referral exceeds the hop limit. The default hop ... " />
-            <marker date="1521665048349" expanded="true" signature="29746:29885" ph="///     Indicates that the server response to a request is invalid. ... " />
-            <marker date="1521665048349" expanded="true" signature="29935:30078" ph="///     Indicates that the server response to a request is ambiguous. ... " />
-            <marker date="1521665048349" expanded="true" signature="30130:30261" ph="///     Indicates that TLS is not supported on the server. ... " />
-            <marker date="1521665048349" expanded="true" signature="30312:30443" ph="///     Indicates that SSL Handshake could not succeed. ... " />
-            <marker date="1521665048349" expanded="true" signature="30497:30630" ph="///     Indicates that SSL Provider could not be found. ... " />
-            <marker date="1521665048349" expanded="true" signature="30687:31025" ph="///     Returns the error message from the Ldap server, if this message is ... " />
-            <marker date="1521665048349" expanded="true" signature="31068:31247" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="31084:31241" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="31253:31489" ph="///     Returns the lower level Exception which caused the failure, if any. ... " />
-            <marker date="1521665048349" expanded="true" signature="31524:31597" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="31540:31591" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="31603:32033" ph="///     Returns the result code from the exception. ... " />
-            <marker date="1521665048349" expanded="true" signature="32067:32137" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="32083:32131" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="32143:32994" ph="///     Returns the part of a submitted distinguished name which could be ... " />
-            <marker date="1521665048349" expanded="true" signature="33030:33099" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="33046:33093" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="33135:33215" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="33151:33209" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="33338:33350" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="33356:34220" ph="///     Constructs an exception with a detailed message obtained from the ... " />
-            <marker date="1521665048349" expanded="true" signature="34400:34412" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="34418:35632" ph="///     Constructs an exception with a detailed message obtained from the ... " />
-            <marker date="1521665048349" expanded="true" signature="35826:35838" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="35844:36966" ph="///     Constructs an exception with a detailed message obtained from the ... " />
-            <marker date="1521665048349" expanded="true" signature="37168:37180" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="37186:38644" ph="///     Constructs an exception with a detailed message obtained from the ... " />
-            <marker date="1521665048349" expanded="true" signature="38860:38872" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="38878:40012" ph="///     Constructs an exception with a detailed message obtained from the ... " />
-            <marker date="1521665048349" expanded="true" signature="40206:40218" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="40224:41680" ph="///     Constructs an exception with a detailed message obtained from the ... " />
-            <marker date="1521665048349" expanded="true" signature="41888:41900" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="41906:43601" ph="///     Constructs an exception with a detailed message obtained from the ... " />
-            <marker date="1521665048349" expanded="true" signature="43813:44049" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="44055:44290" ph="///     Returns a string representing the result code in the default ... " />
-            <marker date="1521665048349" expanded="true" signature="44337:44413" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="44419:44850" ph="///     Returns a string representing the specified result code in the default ... " />
-            <marker date="1521665048349" expanded="true" signature="44904:44969" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="44975:45417" ph="///     Returns a string representing the result code in the ... " />
-            <marker date="1521665048349" expanded="true" signature="45482:45566" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="45572:46141" ph="///     Returns a string representing the specified error code in the ... " />
-            <marker date="1521665048349" expanded="true" signature="46215:46288" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="46294:46441" ph="///     returns a string of information about the exception and the ... " />
-            <marker date="1521665048349" expanded="true" signature="46479:46553" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="46559:46777" ph="///     builds a string of information about the exception and the ... " />
-            <marker date="1521665048349" expanded="true" signature="46842:48142" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="46929:47074" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="47299:47649" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="47394:47473" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="47683:48021" ph="{...}" />
-            <marker date="1521665048349" expanded="true" signature="47778:47853" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/96/8ceee1f6/LdapEntry.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1634">
-          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/Login.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <marker date="1521657851246" expanded="true" signature="17:74" ph="@..." />
             <marker date="1521657851246" expanded="true" signature="132:358" ph="&lt;form.../&gt;" />
@@ -1295,42 +668,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="93" column="20" lean-forward="false" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+        <state relative-caret-position="834">
+          <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
           <folding>
-            <marker date="1521665740873" expanded="false" signature="6:274" ph="..." />
-            <marker date="1521665740873" expanded="true" signature="335:3619" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="385:3617" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="452:845" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="523:627" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="690:795" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="919:1402" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="992:1209" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1454:1922" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1595:1757" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1780:1877" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="1968:3337" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2313:3028" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2523:3014" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2612:2844" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="2867:2996" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="3051:3161" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="3378:3601" ph="{...}" />
-            <marker date="1521665740873" expanded="true" signature="3451:3532" ph="{...}" />
+            <marker date="1522572120214" expanded="false" signature="6:274" ph="..." />
+            <marker date="1522572120214" expanded="true" signature="335:4837" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="385:4835" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="452:845" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="523:627" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="690:795" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="919:1402" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="992:1209" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="1454:2259" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="1712:2071" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="1742:1923" ph="/* Intentamos autentificarnos contra el dominio Ldap, utilizando los datos del objeto LoginDto ... */" />
+            <marker date="1522572120214" expanded="true" signature="2094:2214" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="2305:4554" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="2917:4108" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="3213:4094" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="3302:3819" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="3328:3563" ph="/* Obtenemos el usuario iterado y obtenemos su DN y los metemos en la lista, hacemos lo mismo con ... */" />
+            <marker date="1522572120214" expanded="true" signature="3842:4076" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="4131:4335" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="4596:4819" ph="{...}" />
+            <marker date="1522572120214" expanded="true" signature="4669:4750" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetUsersLdap.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <marker date="1521665925664" expanded="true" signature="3:60" ph="@..." />
-            <marker date="1521665925664" expanded="true" signature="120:428" ph="@..." />
-            <marker date="1521665925664" expanded="true" signature="160:428" ph="{...}" />
-            <marker date="1521665925664" expanded="true" signature="165:407" ph="&lt;div.../&gt;" />
-            <marker date="1521665925664" expanded="true" signature="326:396" ph="&lt;ul.../&gt;" />
+            <marker date="1522572220278" expanded="true" signature="1:58" ph="@..." />
+            <marker date="1522572220278" expanded="true" signature="118:426" ph="@..." />
+            <marker date="1522572220278" expanded="true" signature="158:426" ph="{...}" />
+            <marker date="1522572220278" expanded="true" signature="163:405" ph="&lt;div.../&gt;" />
+            <marker date="1522572220278" expanded="true" signature="324:394" ph="&lt;ul.../&gt;" />
           </folding>
         </state>
       </provider>
