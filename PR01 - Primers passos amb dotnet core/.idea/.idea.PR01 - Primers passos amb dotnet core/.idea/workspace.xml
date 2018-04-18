@@ -14,17 +14,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GetUsersLdap.cshtml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetUsersLdap.cshtml">
+      <file leaf-file-name="AccountController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="1189">
+              <caret line="98" column="107" lean-forward="false" selection-start-line="98" selection-start-column="107" selection-end-line="98" selection-end-column="107" />
               <folding>
-                <marker date="1522572220278" expanded="true" signature="1:58" ph="@..." />
-                <marker date="1522572220278" expanded="true" signature="118:426" ph="@..." />
-                <marker date="1522572220278" expanded="true" signature="158:426" ph="{...}" />
-                <marker date="1522572220278" expanded="true" signature="163:405" ph="&lt;div.../&gt;" />
-                <marker date="1522572220278" expanded="true" signature="324:394" ph="&lt;ul.../&gt;" />
+                <marker date="1522766182043" expanded="true" signature="6:274" ph="..." />
+                <marker date="1522766182043" expanded="true" signature="335:4837" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="385:4835" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="452:845" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="523:627" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="690:795" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="919:1402" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="992:1209" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="1454:2259" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="1712:2071" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="1742:1923" ph="/* Intentamos autentificarnos contra el dominio Ldap, utilizando los datos del objeto LoginDto ... */" />
+                <marker date="1522766182043" expanded="true" signature="2094:2214" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="2305:4554" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="2917:4108" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="3213:4094" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="3302:3819" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="3328:3563" ph="/* Obtenemos el usuario iterado y obtenemos su DN y los metemos en la lista, hacemos lo mismo con ... */" />
+                <marker date="1522766182043" expanded="true" signature="3842:4076" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="4131:4335" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="4596:4819" ph="{...}" />
+                <marker date="1522766182043" expanded="true" signature="4669:4750" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/Login.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <marker date="1522766182517" expanded="true" signature="17:74" ph="@..." />
+                <marker date="1522766182517" expanded="true" signature="132:358" ph="&lt;form.../&gt;" />
               </folding>
             </state>
           </provider>
@@ -33,42 +62,18 @@
     </leaf>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/fd/b5b2bdb7/Binder.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/9a/1b0caf89/UTF8Encoding.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/22/c10d87f8/CSharpSetMemberBinder.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/90/af73bf6a/RuntimeHelpers.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FE4147F-CD8F-4ADE-A9BA-8AA02323CB61/cf/2c4434b2/SetMemberBinder.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/9c/0bda356b/ExecutionContextSwitcher.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/787074D2-46AF-4375-80EB-C759424BDC2C/7a/d982f814/Enumerable.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/07/ce57aa5e/AsyncTaskMethodBuilder.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/8a/efa1e509/List`1.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/ea/195f665a/ControllerActionInvoker.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/a4/9ed68866/LdapSearchConstraints.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/1f/b0edd80a/LdapAttributeSet.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/63/9989ec2c/LdapConstraints.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/67/b37667c8/LdapException.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetUsersLdap.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/fa/1a67f578/LdapSearchRequest.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/2d/54fe81e6/LdapConnection.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/96/8ceee1f6/LdapEntry.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/8a/ecb34476/RfcLdapDN.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C617B9F-5863-440D-84AC-1CE213D06934/54/4dd7e808/RazorPage`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/2d/54fe81e6/LdapConnection.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/1b/6606e862/RfcLdapString.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/Login.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetUsersLdap.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Models/LoginDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/62/37438cd7/Asn1OctetString.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/680D0602-C9E2-44FF-A79D-2642AAF77E76/48/49ffaee7/ViewDataDictionary.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/80/02200735/Encoding.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/df/847be9f0/CSharpArgumentInfo.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/e0/9cfd835a/EncodingProvider.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Startup.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -112,6 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -134,6 +140,12 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="PR01 - Primers passos amb dotnet core (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="PR01 - Primers passos amb dotnet core" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PR01 - Primers passos amb dotnet core (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PR01 - Primers passos amb dotnet core" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
@@ -143,20 +155,12 @@
               <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Account" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="PR01 - Primers passos amb dotnet core (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="PR01 - Primers passos amb dotnet core" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,11 +221,12 @@
       <workItem from="1521655843344" duration="10146000" />
       <workItem from="1521926219985" duration="28000" />
       <workItem from="1522568208057" duration="4427000" />
+      <workItem from="1524070017992" duration="2819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26640000" />
+    <option name="totallyTimeSpent" value="29459000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,29 +238,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04963041" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -306,27 +310,27 @@
         <state relative-caret-position="300">
           <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
           <folding>
-            <marker date="1522572120214" expanded="false" signature="6:274" ph="..." />
-            <marker date="1522572120214" expanded="true" signature="335:4837" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="385:4835" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="452:845" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="523:627" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="690:795" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="919:1402" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="992:1209" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="1454:2259" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="1712:2071" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="1742:1923" ph="/* Intentamos autentificarnos contra el dominio Ldap, utilizando los datos del objeto LoginDto ... */" />
-            <marker date="1522572120214" expanded="true" signature="2094:2214" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="2305:4554" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="2917:4108" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="3213:4094" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="3302:3819" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="3328:3563" ph="/* Obtenemos el usuario iterado y obtenemos su DN y los metemos en la lista, hacemos lo mismo con ... */" />
-            <marker date="1522572120214" expanded="true" signature="3842:4076" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="4131:4335" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="4596:4819" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="4669:4750" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="6:274" ph="..." />
+            <marker date="1522766182043" expanded="true" signature="335:4837" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="385:4835" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="452:845" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="523:627" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="690:795" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="919:1402" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="992:1209" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="1454:2259" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="1712:2071" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="1742:1923" ph="/* Intentamos autentificarnos contra el dominio Ldap, utilizando los datos del objeto LoginDto ... */" />
+            <marker date="1522766182043" expanded="true" signature="2094:2214" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="2305:4554" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="2917:4108" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="3213:4094" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="3302:3819" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="3328:3563" ph="/* Obtenemos el usuario iterado y obtenemos su DN y los metemos en la lista, hacemos lo mismo con ... */" />
+            <marker date="1522766182043" expanded="true" signature="3842:4076" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="4131:4335" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="4596:4819" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="4669:4750" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -375,13 +379,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/wwwroot/lib/jquery/dist/jquery.min.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-630">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/appsettings.json">
@@ -405,156 +409,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AA02052D-CA10-4B7D-9A28-9A9C167B5003/37/05f1aefe/IActionResult.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/35/5f2b5832/String.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/d4/c2f60637/ControllerBase.cs" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C617B9F-5863-440D-84AC-1CE213D06934/54/4dd7e808/RazorPage`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/680D0602-C9E2-44FF-A79D-2642AAF77E76/48/49ffaee7/ViewDataDictionary.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="230" column="18" lean-forward="false" selection-start-line="230" selection-start-column="18" selection-end-line="230" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/df/847be9f0/CSharpArgumentInfo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FE4147F-CD8F-4ADE-A9BA-8AA02323CB61/cf/2c4434b2/SetMemberBinder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/8a/efa1e509/List`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/787074D2-46AF-4375-80EB-C759424BDC2C/7a/d982f814/Enumerable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="3465" column="8" lean-forward="false" selection-start-line="3465" selection-start-column="8" selection-end-line="3465" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/22/c10d87f8/CSharpSetMemberBinder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/fd/b5b2bdb7/Binder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="88" column="6" lean-forward="false" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/a4/9ed68866/LdapSearchConstraints.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="237" column="8" lean-forward="false" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/63/9989ec2c/LdapConstraints.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="254" column="6" lean-forward="false" selection-start-line="254" selection-start-column="6" selection-end-line="254" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/e0/9cfd835a/EncodingProvider.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="82" column="8" lean-forward="false" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/90/af73bf6a/RuntimeHelpers.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="75" column="8" lean-forward="false" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/9a/1b0caf89/UTF8Encoding.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="77" column="6" lean-forward="false" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/80/02200735/Encoding.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="507" column="6" lean-forward="false" selection-start-line="507" selection-start-column="6" selection-end-line="507" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/62/37438cd7/Asn1OctetString.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="54" column="8" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/1b/6606e862/RfcLdapString.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/8a/ecb34476/RfcLdapDN.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/fa/1a67f578/LdapSearchRequest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="281" column="8" lean-forward="false" selection-start-line="281" selection-start-column="8" selection-end-line="281" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/ea/195f665a/ControllerActionInvoker.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="155" column="14" lean-forward="false" selection-start-line="155" selection-start-column="14" selection-end-line="155" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/07/ce57aa5e/AsyncTaskMethodBuilder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C617B9F-5863-440D-84AC-1CE213D06934/54/4dd7e808/RazorPage`1.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/680D0602-C9E2-44FF-A79D-2642AAF77E76/48/49ffaee7/ViewDataDictionary.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/df/847be9f0/CSharpArgumentInfo.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FE4147F-CD8F-4ADE-A9BA-8AA02323CB61/cf/2c4434b2/SetMemberBinder.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/8a/efa1e509/List`1.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/787074D2-46AF-4375-80EB-C759424BDC2C/7a/d982f814/Enumerable.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/22/c10d87f8/CSharpSetMemberBinder.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/965D4C1B-B8C5-4E56-9930-1C2C6CFE1DE7/fd/b5b2bdb7/Binder.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/a4/9ed68866/LdapSearchConstraints.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/63/9989ec2c/LdapConstraints.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/e0/9cfd835a/EncodingProvider.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/90/af73bf6a/RuntimeHelpers.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/9a/1b0caf89/UTF8Encoding.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/80/02200735/Encoding.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/62/37438cd7/Asn1OctetString.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/1b/6606e862/RfcLdapString.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/8a/ecb34476/RfcLdapDN.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/fa/1a67f578/LdapSearchRequest.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/ea/195f665a/ControllerActionInvoker.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/07/ce57aa5e/AsyncTaskMethodBuilder.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/2d/54fe81e6/LdapConnection.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -562,56 +439,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/1f/b0edd80a/LdapAttributeSet.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1141">
-          <caret line="335" column="35" lean-forward="true" selection-start-line="335" selection-start-column="35" selection-end-line="335" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/9c/0bda356b/ExecutionContextSwitcher.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/67/b37667c8/LdapException.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="258" column="15" lean-forward="false" selection-start-line="258" selection-start-column="15" selection-end-line="258" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/96/8ceee1f6/LdapEntry.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetTreeLdap.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/1f/b0edd80a/LdapAttributeSet.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04CF0974-F8F8-4E8E-9238-D6B73BAD453D/9c/0bda356b/ExecutionContextSwitcher.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/67/b37667c8/LdapException.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D181C8B9-935F-4408-B5A3-0FF41BDCE53B/96/8ceee1f6/LdapEntry.cs" />
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetTreeLdap.cshtml" />
     <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1521312367397" expanded="false" signature="6:284" ph="..." />
-            <marker date="1521312367397" expanded="true" signature="345:1294" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="392:1292" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="435:815" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="551:654" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="853:973" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="1013:1117" ph="{...}" />
-            <marker date="1521312367397" expanded="true" signature="1155:1286" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,38 +455,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetUsersLdap.cshtml" />
+    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
           <folding>
-            <marker date="1521664902468" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1521664902468" expanded="true" signature="248:3245" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="339:644" ph="&lt;ol.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="649:2788" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="701:1191" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="823:1176" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="884:1157" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="983:1136" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1200:1713" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1321:1698" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1382:1679" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1505:1658" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1722:2240" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1848:2225" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="1909:2206" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2032:2185" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2249:2777" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2372:2762" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2433:2743" ph="&lt;p.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2569:2722" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="2793:3014" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3019:3238" ph="&lt;a.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3247:5534" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3269:3526" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3334:3515" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3531:4204" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="3586:4193" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="4209:5092" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="4266:5081" ph="&lt;ul.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="5097:5527" ph="&lt;div.../&gt;" />
-            <marker date="1521664902468" expanded="true" signature="5162:5516" ph="&lt;ul.../&gt;" />
+            <marker date="1520967994423" expanded="false" signature="6:258" ph="..." />
+            <marker date="1520967994423" expanded="true" signature="307:1622" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="334:1620" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="393:456" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="679:920" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="1108:1614" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="1155:1232" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="1249:1333" ph="{...}" />
+            <marker date="1520967994423" expanded="true" signature="1431:1602" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -660,52 +482,38 @@
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <marker date="1521657851246" expanded="true" signature="17:74" ph="@..." />
-            <marker date="1521657851246" expanded="true" signature="132:358" ph="&lt;form.../&gt;" />
+            <marker date="1522766182517" expanded="true" signature="17:74" ph="@..." />
+            <marker date="1522766182517" expanded="true" signature="132:358" ph="&lt;form.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Controllers/AccountController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+        <state relative-caret-position="1189">
+          <caret line="98" column="107" lean-forward="false" selection-start-line="98" selection-start-column="107" selection-end-line="98" selection-end-column="107" />
           <folding>
-            <marker date="1522572120214" expanded="false" signature="6:274" ph="..." />
-            <marker date="1522572120214" expanded="true" signature="335:4837" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="385:4835" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="452:845" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="523:627" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="690:795" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="919:1402" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="992:1209" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="1454:2259" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="1712:2071" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="1742:1923" ph="/* Intentamos autentificarnos contra el dominio Ldap, utilizando los datos del objeto LoginDto ... */" />
-            <marker date="1522572120214" expanded="true" signature="2094:2214" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="2305:4554" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="2917:4108" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="3213:4094" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="3302:3819" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="3328:3563" ph="/* Obtenemos el usuario iterado y obtenemos su DN y los metemos en la lista, hacemos lo mismo con ... */" />
-            <marker date="1522572120214" expanded="true" signature="3842:4076" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="4131:4335" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="4596:4819" ph="{...}" />
-            <marker date="1522572120214" expanded="true" signature="4669:4750" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PR01 - Primers passos amb dotnet core/Views/Account/GetUsersLdap.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <marker date="1522572220278" expanded="true" signature="1:58" ph="@..." />
-            <marker date="1522572220278" expanded="true" signature="118:426" ph="@..." />
-            <marker date="1522572220278" expanded="true" signature="158:426" ph="{...}" />
-            <marker date="1522572220278" expanded="true" signature="163:405" ph="&lt;div.../&gt;" />
-            <marker date="1522572220278" expanded="true" signature="324:394" ph="&lt;ul.../&gt;" />
+            <marker date="1522766182043" expanded="true" signature="6:274" ph="..." />
+            <marker date="1522766182043" expanded="true" signature="335:4837" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="385:4835" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="452:845" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="523:627" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="690:795" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="919:1402" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="992:1209" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="1454:2259" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="1712:2071" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="1742:1923" ph="/* Intentamos autentificarnos contra el dominio Ldap, utilizando los datos del objeto LoginDto ... */" />
+            <marker date="1522766182043" expanded="true" signature="2094:2214" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="2305:4554" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="2917:4108" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="3213:4094" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="3302:3819" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="3328:3563" ph="/* Obtenemos el usuario iterado y obtenemos su DN y los metemos en la lista, hacemos lo mismo con ... */" />
+            <marker date="1522766182043" expanded="true" signature="3842:4076" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="4131:4335" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="4596:4819" ph="{...}" />
+            <marker date="1522766182043" expanded="true" signature="4669:4750" ph="{...}" />
           </folding>
         </state>
       </provider>

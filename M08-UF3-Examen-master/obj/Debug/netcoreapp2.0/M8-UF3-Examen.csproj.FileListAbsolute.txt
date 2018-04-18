@@ -1,0 +1,10 @@
+C:\GIT\dotnet-core\M08-UF3-Examen-master\bin\Debug\netcoreapp2.0\M8-UF3-Examen.deps.json
+C:\GIT\dotnet-core\M08-UF3-Examen-master\bin\Debug\netcoreapp2.0\M8-UF3-Examen.runtimeconfig.json
+C:\GIT\dotnet-core\M08-UF3-Examen-master\bin\Debug\netcoreapp2.0\M8-UF3-Examen.runtimeconfig.dev.json
+C:\GIT\dotnet-core\M08-UF3-Examen-master\bin\Debug\netcoreapp2.0\M8-UF3-Examen.dll
+C:\GIT\dotnet-core\M08-UF3-Examen-master\bin\Debug\netcoreapp2.0\M8-UF3-Examen.pdb
+C:\GIT\dotnet-core\M08-UF3-Examen-master\obj\Debug\netcoreapp2.0\M8-UF3-Examen.csproj.CoreCompileInputs.cache
+C:\GIT\dotnet-core\M08-UF3-Examen-master\obj\Debug\netcoreapp2.0\M8-UF3-Examen.AssemblyInfoInputs.cache
+C:\GIT\dotnet-core\M08-UF3-Examen-master\obj\Debug\netcoreapp2.0\M8-UF3-Examen.AssemblyInfo.cs
+C:\GIT\dotnet-core\M08-UF3-Examen-master\obj\Debug\netcoreapp2.0\M8-UF3-Examen.dll
+C:\GIT\dotnet-core\M08-UF3-Examen-master\obj\Debug\netcoreapp2.0\M8-UF3-Examen.pdb

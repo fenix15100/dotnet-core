@@ -1,0 +1,16 @@
+﻿@model List<LdapUser>
+
+
+@foreach (var user in ViewBag.ldapusers)
+{   <div style="border: solid 2px lightseagreen">
+        <span>Usuario</span>
+        <br>
+        <p>@user.DN</p>
+        <p>@user.Name</p>
+        <p>@user.Surname</p>
+        <br>
+    </div>
+    <br>
+    
+
+}

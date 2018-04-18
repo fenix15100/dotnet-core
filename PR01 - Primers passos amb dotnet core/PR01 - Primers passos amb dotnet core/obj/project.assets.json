@@ -12744,7 +12744,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\franc\\.nuget\\packages\\": {},
+    "C:\\Users\\fenix\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12753,14 +12753,14 @@
       "projectUniqueName": "C:\\GIT\\dotnet-core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core.csproj",
       "projectName": "PR01 - Primers passos amb dotnet core",
       "projectPath": "C:\\GIT\\dotnet-core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core.csproj",
-      "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\fenix\\.nuget\\packages\\",
       "outputPath": "C:\\GIT\\dotnet-core\\PR01 - Primers passos amb dotnet core\\PR01 - Primers passos amb dotnet core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\fenix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
